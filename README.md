@@ -6,7 +6,8 @@
 
 キリ番踏んだ人は[カキコ](https://github.com/n01e0/n01e0/issues/1)して下さい!
 
-![](https://gph.is/2apaVwT)
+![](https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n01e0&show_icons=true&title_color=9370db&icon_color=c0ffee&text_color=9f9f9f&bg_color=222)
 
