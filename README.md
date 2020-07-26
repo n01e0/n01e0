@@ -7,6 +7,7 @@
 キリ番踏んだ人は[カキコ](https://github.com/n01e0/n01e0/issues/1)して下さい!
 
 著者近影
+
 ![](https://i.kym-cdn.com/photos/images/newsfeed/001/085/121/4e8.gif)
 
 <a href="https://twitter.com/n01e0">
