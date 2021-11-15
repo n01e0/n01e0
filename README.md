@@ -1,8 +1,4 @@
-[🍣🍖🍔](http://www.feneshi.co)
-
-あなたは
-![visitor count](https://profile-counter.glitch.me/n01e0/count.svg)
-番目の訪問者です!
+[🍣🍖🍔](https://feneshi.co)
 
 より多くのバグを握り潰す為，握力を鍛えています．
 
